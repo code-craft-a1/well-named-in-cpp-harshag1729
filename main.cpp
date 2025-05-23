@@ -47,8 +47,8 @@ int main() {
         std::cerr << "Error: " << e.what() << std::endl;
     }
 
-    // std::cout << "\nReference Manual:\n";
-    // PrintReferenceManual();
+    std::cout << "\nReference Manual:\n";
+    PrintReferenceManual();
 
     return 0;
 }
